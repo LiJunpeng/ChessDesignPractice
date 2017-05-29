@@ -9,7 +9,6 @@ public class Chess {
         b.setPiece(new ChessPiece("test1", 1), 0, 0);
         b.setPiece(new ChessPiece("test2", 2), 1,1);
         b.printBoard();
-        b.printBoard();
 	}
 
 }
