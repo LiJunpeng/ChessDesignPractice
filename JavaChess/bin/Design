@@ -1,0 +1,17 @@
+
+
+while(isPlaying) {
+    waitForCurrentPlayer();
+    ruler.checkForResult();
+    switchPlayer();
+}
+
+
+ruler.getPlayerMove()
+ruler.validMoveWithRule()
+ruler.movePiece()
+ruler.rule
+
+
+
+rule.valid()
